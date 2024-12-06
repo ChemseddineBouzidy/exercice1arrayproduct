@@ -1,0 +1,12 @@
+.isAvailable_yes::before{
+    color: green;
+ content: 'En stock ';
+}
+.isAvailable_no::before{
+  
+    content: 'En rupture de stock';
+    color: red;
+}
+
+
+   
